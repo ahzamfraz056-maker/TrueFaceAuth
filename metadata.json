@@ -1,0 +1,7 @@
+{
+  "name": "Govt Face Auth Portal",
+  "description": "Indian Government-style Face Authentication Portal Demo. Features document management, secure face login simulation, and administrative controls.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
